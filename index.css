@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/images/bcg.jpg);
+    background-image: url(bcg.jpg);
     background-size: cover;
 }
 .container{
@@ -17,12 +17,11 @@ body{
 }
 .calculator{
     background-color: black;
-    background-size: cover;
     padding: 20px;
     border-radius: 7px;
 }
 .calculator form input{
-    background-image: url(/images/bcg.jpg);
+    background-image: url(bcg.jpg);
     background-size: cover;
     font-size: 27px;
     color: white;
@@ -30,7 +29,6 @@ body{
     width: 60px;
     margin: 10px;
     padding: 10px;
-    /* border: 2px solid rgb(95, 95, 136); */
     border-style: outset;
     border-radius: 10px;
     box-sizing: border-box;
